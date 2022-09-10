@@ -1,3 +1,7 @@
 For commit 1
 For commit 2
+<<<<<<< HEAD
 branch master
+=======
+branch1
+>>>>>>> MyBranch1
